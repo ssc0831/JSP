@@ -1,0 +1,18 @@
+1686617154711	Move 'memberInsertPro.jsp' to 'member'
+1686710094227	Rename type 'BoardDTO'
+1686710187815	Rename resource 'boardForm.jsp'
+1686710303862	Rename resource 'writeForm.jsp'
+1686710551367	Rename resource 'boardForm.jsp'
+1686710584444	Rename type 'BoardDAO'
+1686711324154	Rename type 'Board'
+1686786981038	Rename resource 'deletePro.jsp'
+1686787225541	Delete element
+1686800821523	Move compilation unit
+1686808189899	Move 'commentInsert.jsp' to 'board'
+1686811754610	Delete element
+1686811880686	Delete element
+1686812791946	Move 'includeTest.jsp' to 'includeTest'
+1686812811111	Rename resource 'includeTest.jsp'
+1686874053414	Delete element
+1686877420636	Rename resource 'jstltest.jsp'
+1686882285233	Move file
